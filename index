@@ -1,13 +1,7 @@
 <!doctype html>
 <html>
   <head>
-    <meta charset="utf-8" />
-    <title>Demo</title>
+    <meta http-equiv="refresh" content="0; url=https://github.com/Luminesce-Labs/AxoDen-Demos/blob/main/investigation_graph_campaign_1.html">
   </head>
-  <body>
-    <h1>Demo</h1>
-    <ul>
-      <li><a href="path/to/your-file.html">Open the demo</a></li>
-    </ul>
-  </body>
+  <body></body>
 </html>
